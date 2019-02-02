@@ -1,0 +1,7 @@
+identify 's and add it as euristic
+divide to single sentences
+identify formulas and add it as euristic
+identify unknown part
+build variables from qsets
+put verb subject?
+what to put in cnt?
